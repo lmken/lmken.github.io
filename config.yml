@@ -8,7 +8,7 @@ params:
   profileMode:
     enabled: true
     title: "~welcome" # optional default will be site title
-    subtitle: "connect with me below"
+    subtitle: "connect"
     imageUrl: "https://azk.imgix.net/images/4323e250-c0d7-4c93-9f08-6e88b00c05b9.png" # optional
     imageTitle: "take the red bean" # optional
     imageWidth: 120 # custom size
