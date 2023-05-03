@@ -21,7 +21,7 @@ params:
 
   socialIcons: # optional
     - name: "Twitter"
-      url: "https://twitter.com/0xForm"
+      url: "https://twitter.com/0xVenetian"
     - name: "LinkedIn"
       url: "https://www.linkedin.com/in/kennedyluke/"
     - name: "Github"
